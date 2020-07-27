@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vadim-SV/portfolio2/issues"
   },
-  "homepage": "https://github.com/Vadim-SV/portfolio2#readme"
+  "homepage": "https://github.com/Vadim-SV/portfolio2#readme",
+  "dependencies": {
+    "node": "^14.5.0"
+  }
 }
